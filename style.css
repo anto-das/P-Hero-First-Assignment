@@ -175,7 +175,10 @@ padding: 0px;
 .line-description{
     line-height: 26px;
 }
-.line{
+/* second part close here */
+
+/* third part start here */
+line{
     line-height: 36px;
 }
 .third-part-container{
@@ -185,3 +188,47 @@ display: flex;
 justify-content: space-between;
 margin-top: 128px;
 }
+/* third part start here */
+
+/* insperation part start */
+.insperation-part{
+    width: 1100px;
+height: 690px;
+margin: 0 auto;
+/* border: 2px solid tomato; */
+}
+.insperation-container{
+    width: 852px;
+height: 115px;
+margin: 0 auto;
+}
+.insperation-title{
+    text-align: center;
+    margin: 0;
+    color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+}
+.insperation-description{
+    text-align: center;
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.insperation-video{
+    width: 100%;
+margin-top: 48px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+}
+.insperation-video .about-video{
+    width: 1076px;
+height: 550px;
+padding: 10px;
+border-radius: 16px;
+}
+/* insperation close here */
