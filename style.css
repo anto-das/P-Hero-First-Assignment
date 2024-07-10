@@ -3,6 +3,9 @@ body{
     font-family: "Azeret Mono", monospace;
 }
 /* header part-start here */
+html{
+    scroll-behavior: smooth;
+}
 .header-container{
     display: flex;
     flex-direction: column;
